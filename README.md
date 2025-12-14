@@ -36,6 +36,7 @@ Verifique se deu certo executando no terminal:
 ```bash
 node -v
 npm -v
+```
 
 ## ▶️ Como rodar o projeto no computador
 
@@ -46,26 +47,26 @@ git clone https://github.com/SEU-USUARIO/smarfeedback-influx.git
 Entre na pasta do projeto:
 ```bash
 cd smarfeedback-influx
+```
 
-3️⃣ Instalar as dependências
+### 3️⃣ Instalar as dependências
 ```bash
 npm install
+```
 
-4️⃣ Executar o projeto com Expo
+### 4️⃣ Executar o projeto com Expo
 ```bash
 npx expo start
-
+```
 Uma página será aberta no navegador com um QR Code.
 
-5️⃣ Visualizar o aplicativo
-
-Opção A — No celular (mais simples):
+### 5️⃣ Visualizar o aplicativo
 
 Instale o aplicativo Expo Go (Android ou iOS).
 
 Abra o Expo Go e escaneie o QR Code.
 
-ℹ️ Observações Importantes
+### ℹ️ Observações Importantes
 
 O aplicativo utiliza armazenamento local, portanto os dados ficam salvos apenas no dispositivo onde está sendo executado.
 
